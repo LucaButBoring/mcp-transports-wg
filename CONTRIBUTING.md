@@ -67,7 +67,6 @@ All participants must follow the [MCP Code of Conduct](https://github.com/modelc
 Per the [MCP Antitrust Policy](https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/ANTITRUST.md), discussions must focus on:
 
 - Technical standards and specifications
-- Interoperability patterns
 - Open collaboration
 
 And must avoid:

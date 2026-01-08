@@ -78,20 +78,8 @@ Maintainer status is earned through sustained, high-quality contributions:
 
 All meetings must include:
 
-- Brief antitrust reminder at the start
 - Published agenda (48+ hours in advance)
-- Public notes with decisions and action items
 - Open attendance for all participants
-
-### Prohibited Topics
-
-Per antitrust requirements, meetings must not discuss:
-
-- Pricing, costs, or margins
-- Customer lists or strategies
-- Competitive strategies
-- Confidential business information
-- Any form of anti-competitive coordination
 
 ## Amendments
 

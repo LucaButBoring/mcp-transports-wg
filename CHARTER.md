@@ -10,7 +10,6 @@ The Transports Working Group brings together community participants to:
 - **Define scalability patterns** for connection management, load distribution, and resource efficiency
 - **Establish reliability standards** for error handling, reconnection, and delivery guarantees
 - **Clarify transport semantics** for consistent protocol behavior across implementations
-- **Enable interoperability** through testing patterns and conformance guidelines
 
 ## Scope
 
@@ -21,7 +20,6 @@ The Transports Working Group brings together community participants to:
 - Reliability mechanisms (error handling, reconnection, message delivery)
 - Transport semantics (ordering, state management, lifecycle)
 - Reference implementations for testing and validation
-- Interoperability patterns and conformance testing
 - Documentation and guidance materials
 
 ### Excluded

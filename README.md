@@ -25,16 +25,14 @@ The Transports Working Group coordinates community stakeholders to:
 ## Meetings
 
 **Cadence:** Weekly
-**Day:** Tuesdays at 1:00pm
+**Day:** Wednesdays at 1:00pm PT
 **Duration:** 60 minutes
 **Format:** Virtual
 
 > **Note:** See [meet.modelcontextprotocol.io](https://meet.modelcontextprotocol.io) for meeting links and calendar.
 
 All meetings include:
-- Brief [antitrust reminder](https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/ANTITRUST.md) at start
 - Published agenda (48h prior)
-- Public notes with decisions and action items
 - Open attendance for all interested participants
 
 ## How to Participate
@@ -55,7 +53,6 @@ Our work focuses on:
 1. **Scalability** — Connection pooling, load distribution, resource management
 2. **Reliability** — Error handling, reconnection strategies, message delivery guarantees
 3. **Transport Semantics** — Protocol behavior, message ordering, state management
-4. **Interoperability** — Cross-platform compatibility, testing patterns, conformance
 
 ## Repository Structure
 
